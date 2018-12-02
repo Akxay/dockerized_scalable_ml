@@ -4,5 +4,7 @@ https://medium.com/datadriveninvestor/from-model-inception-to-deployment-adce1f5
 
 
 How to run:
-cd <Proejct directory>
+
+cd Proejct directory
+
 docker-compose up
