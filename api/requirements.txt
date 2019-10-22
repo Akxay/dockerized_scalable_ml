@@ -1,5 +1,5 @@
 Cython==0.25.2
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.2
 numpy==1.15.2
 numpydoc==0.6.0
